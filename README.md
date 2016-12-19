@@ -3,6 +3,8 @@ Bot que filtra mensagens no Telegram
 
 ![alt tag](http://i.imgur.com/XEWYGin.png)
 
+Cabe a você implementá-lo
+
 # Requirements:
 - telepot
 - time
@@ -16,3 +18,4 @@ TOKEN = "Cole seu Token"
 # Use
 
 - python Filter-Bot.py
+
